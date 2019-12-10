@@ -1,4 +1,4 @@
-# Register API - Delivery APP
+# Car Rentals 
 API to support the register for Delivery app, created using NodeJs and Sequelize ORM with Postgresql.
 
 ## Table of contents
