@@ -1,0 +1,20 @@
+.option-button{
+    background: rgb(61, 61, 77);
+    font-size: 20px;
+    min-height: 5vh;
+    border-radius: 15px;
+    width: auto;
+    min-width: 15%;
+    margin: 2% 1% 0% 1%;
+    color: aliceblue;
+    vertical-align: center;
+}
+
+.home-image {
+    width: 25%;
+    border-radius: 20px;
+}
+
+.home-title {
+    margin-top: 5%;
+}

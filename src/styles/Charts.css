@@ -1,0 +1,7 @@
+.grid-container {
+  align-self: center;
+  margin-top: 12%;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  justify-content: space-evenly;
+}
